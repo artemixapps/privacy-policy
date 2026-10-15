@@ -1,4 +1,4 @@
-# privacy-policy
+# Privacy Policy
 Privacy policy for all of my Wear OS applications
 
 # Information Collection
